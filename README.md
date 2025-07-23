@@ -48,7 +48,7 @@
 
 
 
-![Snake animation](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake.svg?raw=true)
+
 
 ![Snake animation dark](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
