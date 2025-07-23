@@ -46,4 +46,9 @@
  <a href="www.linkedin.com/in/jhonathan-fernandes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
 
-[![Snake animation](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake.svg)](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake.svg?raw=true)
+
+![Snake animation dark](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+
