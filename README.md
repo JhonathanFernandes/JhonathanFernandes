@@ -50,5 +50,5 @@
 
 
 
-![Snake animation dark](https://github.com/JhonathanFernandes/JhonathanFernandes/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+
 
