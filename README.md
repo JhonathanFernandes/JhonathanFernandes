@@ -10,7 +10,7 @@
 ### 📌 Sobre mim
 
 - 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas**
-- 📚 Estudando **Back-End ** e desenvolvendo projetos práticos com **HTML, CSS, JS e Git**
+- 📚 Estudando **Front-End ** e desenvolvendo projetos práticos com **HTML, CSS, JS e Git**
 - 👨‍💻 Em transição de carreira para a área Tech
 - 🌍 Desenvolvendo projetos com impacto comunitário e extensão universitária
 - 📍 Localizado em Curitiba - PR
