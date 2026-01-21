@@ -37,28 +37,7 @@
 
 ---
 
-
-<div>
-  <a href="https://www.instagram.com/jhowfernandesbig/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://discord.gg/enE6CEct" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-  <a href="mailto:jhonathanads25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/jhonathan-fernandes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-
-
-
+<img width="1394" height="845" alt="image" src="https://github.com/user-attachments/assets/b4b880f2-c63a-4919-b7ee-e4268e41a1f4" />
 
 
 
