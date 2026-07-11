@@ -15,8 +15,16 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonathanFernandes&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanFernandes&layout=compact&langs_count=16&theme=dracula" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JhonathanFernandes&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JhonathanFernandes&layout=compact&langs_count=16&theme=dracula" />
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JhonathanFernandes/JhonathanFernandes/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
