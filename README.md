@@ -2,11 +2,6 @@
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 </p>
-<p align="center">
-  <a href="https://github.com/JhonathanFernandes/JhonathanFernandes/actions/workflows/snake.yml">
-    <img src="https://github.com/JhonathanFernandes/JhonathanFernandes/actions/workflows/snake.yml/badge.svg" alt="Status da atualização automática da cobrinha" />
-  </a>
-</p>
 
 ---
 
@@ -33,13 +28,6 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JhonathanFernandes&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas" />
 </div>
 
----
-
-### 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JhonathanFernandes/JhonathanFernandes/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
-</div>
 
 ---
 
