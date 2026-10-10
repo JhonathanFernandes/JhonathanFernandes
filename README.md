@@ -1,6 +1,11 @@
 <h1 align="center">👋 Olá, sou o Jhonathan Fernandes!</h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end em formação
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+</p>
+<p align="center">
+  <a href="https://github.com/JhonathanFernandes/JhonathanFernandes/actions/workflows/snake.yml">
+    <img src="https://github.com/JhonathanFernandes/JhonathanFernandes/actions/workflows/snake.yml/badge.svg" alt="Status da atualização automática da cobrinha" />
+  </a>
 </p>
 
 ---
